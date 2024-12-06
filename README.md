@@ -1,8 +1,18 @@
 # pararius_bot
 
 
-instructions:
+<b>instructions:</b>
 
-install dependencies:  npm i
-adjust your settings in index.js
-run with node index
+<ul>
+  <li>
+    install dependencies:  npm i
+  </li>
+  <li>
+    adjust your settings in index.js
+  </li>
+  <li>
+    run with node index
+  </li>
+</ul>
+
+
